@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 320" width="1400" height="320" role="img" aria-label="ゆなぴ · yunapi">
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#e9a2b7"/>
+      <stop offset="0.45" stop-color="#d98fa4"/>
+      <stop offset="1" stop-color="#e9a2b7"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d98fa4" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#d98fa4" stop-opacity="0.55"/>
+      <stop offset="0.7" stop-color="#d98fa4" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#d98fa4" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.45" r="0.5">
+      <stop offset="0" stop-color="#e9a2b7" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#e9a2b7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <ellipse cx="700" cy="150" rx="420" ry="130" fill="url(#halo)"/>
+
+  <text x="700" y="150" text-anchor="middle"
+        font-family="'Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif"
+        font-size="66" fill="url(#ink)" letter-spacing="18">ゆなぴ</text>
+
+  <text x="700" y="196" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace"
+        font-size="12" fill="#d98fa4" letter-spacing="7">Y U N A P I</text>
+
+  <text x="700" y="232" text-anchor="middle" font-family="'Noto Sans CJK JP','DejaVu Sans',sans-serif"
+        font-size="15" fill="#d98fa4" letter-spacing="1">✧◝(⁰▿⁰)◜✧</text>
+
+  <path d="M370 276 a18 18 0 0 1 36 0 a18 18 0 0 1 36 0 a18 18 0 0 1 36 0 a18 18 0 0 1 36 0
+           a18 18 0 0 1 36 0 a18 18 0 0 1 36 0 a18 18 0 0 1 36 0 a18 18 0 0 1 36 0
+           a18 18 0 0 1 36 0 a18 18 0 0 1 36 0 a18 18 0 0 1 36 0 a18 18 0 0 1 36 0
+           a18 18 0 0 1 36 0 a18 18 0 0 1 36 0 a18 18 0 0 1 36 0 a18 18 0 0 1 36 0
+           a18 18 0 0 1 36 0 a18 18 0 0 1 36 0"
+        fill="none" stroke="url(#fade)" stroke-width="1.5"/>
+
+  <g fill="#d98fa4" fill-opacity="0.6">
+    <path d="M330 96 l2.4 7.6 l7.6 2.4 l-7.6 2.4 l-2.4 7.6 l-2.4-7.6 l-7.6-2.4 l7.6-2.4 z"/>
+    <path d="M1070 96 l2.4 7.6 l7.6 2.4 l-7.6 2.4 l-2.4 7.6 l-2.4-7.6 l-7.6-2.4 l7.6-2.4 z"/>
+    <path d="M1194 168 l1.8 5.8 l5.8 1.8 l-5.8 1.8 l-1.8 5.8 l-1.8-5.8 l-5.8-1.8 l5.8-1.8 z" fill-opacity="0.35"/>
+    <path d="M206 168 l1.8 5.8 l5.8 1.8 l-5.8 1.8 l-1.8 5.8 l-1.8-5.8 l-5.8-1.8 l5.8-1.8 z" fill-opacity="0.35"/>
+  </g>
+</svg>
